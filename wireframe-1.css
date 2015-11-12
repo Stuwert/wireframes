@@ -1,0 +1,62 @@
+h1, h2, p, li, h3{
+  font-family: Helvetica;
+}
+
+header{
+  width: 100%;
+
+}
+
+ul {
+  margin: .5em;
+}
+
+li{
+  margin: 2em .75em;
+}
+
+h1{
+  font-size: 2em;
+  margin: .75em;
+}
+
+h2{
+  font-size: 1.25em;
+  margin: .8em;
+}
+
+h3{
+  text-align: center;
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+.product{
+  width: 150px;
+  border: 1px solid black;
+  height: 150px;
+  float: left;
+  margin: 4% 3%;
+}
+
+.product img {
+  margin: 15px 30px;
+}
+
+p{
+  margin: 1em;
+  font-size: .95em;
+}
+
+nav{
+  width: 20%;
+  margin: 0 2%;
+  float: left;
+  height: 500px;
+  border: 1px solid black;
+}
+
+section{
+  width: 72%;
+  float: left;
+}
