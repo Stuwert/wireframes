@@ -1,0 +1,47 @@
+body{
+  font-family: Helvetica;
+}
+
+.Bear{
+  border: 1px solid black;
+  width: 80%;
+  margin: 4%;
+  overflow: auto;
+}
+
+h1{
+  margin: 4%;
+  font-size: 2em;
+}
+
+img {
+  float: left;
+  margin: 2% 2% 8% 2%;
+}
+
+p, input, form, textarea {
+  float: left;
+}
+
+textarea{
+  margin-right: 5%;
+}
+
+form{
+  width: 50%;
+}
+
+p{
+  margin-right: 20%;
+}
+
+.social{
+  margin: 0;
+  width: 60%;
+  overflow: auto;
+  float: left;
+}
+
+h3{
+  margin: 1% 0 14% 0;
+}
